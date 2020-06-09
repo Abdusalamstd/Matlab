@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## بۇ بەتكە كەلگىنىڭىزنى قارشى ئالىەمەن
 
-You can use the [editor on GitHub](https://github.com/Abdusalamstd/Python/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+تەپىسىلاتىنى مىنىڭ باش بىتىمدىن كۆرۈڭئ
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### ئاددى بەر پايسون پىروگىراممىسى
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+كونا يېزىقنى لاتىن يېزىقىغا ئايلاندۇرۇش كودى.توغرىلىق نىسپىتى 99% كام ئەمەس
 
 ```python
 #encoding utf-8
@@ -33,12 +33,11 @@ print(tr)
 
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
+تېكسىت ھۆججىتىدە خەتلەر بولىدۇ
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Abdusalamstd/Python/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### مەن بىلەن ئالاقىلىشىڭ
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+تېخىمۇ كۆپ نەرسىلەرنە سورىماقچى بىلمەكچى بولسىڭىز خەت قالدۇرۇڭ
