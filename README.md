@@ -1,4 +1,21 @@
-《数值计算方法》基本算法
+# Matlab
+### Matlab Algorithms
+### Matlab ھېساپلاش  ماتىماتىكىسى ئالگورىزىملىرى
+MATLAB is a commercial mathematics software produced by MathWorks in the United States. It is used in data analysis, wireless communication, deep learning, image processing and computer vision, signal processing, quantitative finance and risk management, robotics, control systems and other fields. [1] 
+MATLAB is a combination of two words matrix&laboratory, which means matrix factory (matrix laboratory). The software mainly faces the high-tech computing environment of scientific computing, visualization and interactive programming. It integrates many powerful functions such as numerical analysis, matrix calculation, scientific data visualization, and nonlinear dynamic system modeling and simulation in an easy-to-use window environment. It is used for scientific research, engineering design, and many sciences that require effective numerical calculations. The field provides a comprehensive solution, and to a large extent get rid of the editing mode of traditional non-interactive programming languages ​​(such as C, Fortran). [1] 
+MATLAB, Mathematica, and Maple are collectively called the three major mathematical software. It is second to none in numerical calculation in mathematical science and technology application software. MATLAB can perform matrix operations, plot functions and data, implement algorithms, create user interfaces, connect programs in other programming languages, etc. The basic data unit of MATLAB is a matrix. Its instruction expressions are very similar to those commonly used in mathematics and engineering. Therefore, it is much simpler to use MATLAB to solve problems than to use C, FORTRAN and other languages ​​to accomplish the same thing, and MATLAB also Absorb the advantages of software like Maple, making MATLAB a powerful mathematical software. In the new version, support for C, FORTRAN, C++, and JAVA has also been added.
+
+<div dir="rtl">
+MATLAB ئامېرىكىدىكى MathWorks ئىشلەپچىقارغان سودا ماتېماتىكا يۇمشاق دېتالى بولۇپ ، ئۇ سانلىق مەلۇمات ئانالىزى ، سىمسىز خەۋەرلىشىش ، چوڭقۇر ئۆگىنىش ، رەسىم بىر تەرەپ قىلىش ۋە كومپيۇتېر كۆرۈش ، سىگنال بىر تەرەپ قىلىش ، مىقدار مالىيە ۋە خەتەرنى باشقۇرۇش ، ماشىنا ئادەم ، كونترول سىستېمىسى ۋە باشقا ساھەلەردە ئىشلىتىلىدۇ. [1]
+MATLAB ماترىسسا ۋە تەجرىبىخانىدىن ئىبارەت ئىككى سۆزنىڭ بىرىكىشى بولۇپ ، ماترىسسا زاۋۇتى (ماترىسسا تەجرىبىخانىسى) نى كۆرسىتىدۇ. بۇ يۇمشاق دېتال ئاساسلىقى ئىلمىي ھېسابلاش ، تەسۋىرلەش ۋە ئۆز-ئارا پروگرامما تۈزۈشنىڭ يۇقىرى تېخنىكىلىق ھېسابلاش مۇھىتىغا دۇچ كېلىدۇ. ئۇ سانلىق مەلۇماتلارنى ئانالىز قىلىش ، ماترىسسا ھېسابلاش ، ئىلمىي سانلىق مەلۇماتلارنى تەسۋىرلەش ۋە سىزىقسىز ھەرىكەتچان سىستېما مودېل ۋە تەقلىد قىلىش قاتارلىق نۇرغۇن كۈچلۈك ئىقتىدارلارنى بىرلەشتۈرگەن بولۇپ ، ئىشلىتىشكە قولايلىق بولغان كۆزنەك مۇھىتىدا ئۇ ئىلمىي تەتقىقات ، قۇرۇلۇش لايىھىلەش ۋە ئۈنۈملۈك سان ھېسابلاشنى تەلەپ قىلىدىغان نۇرغۇن ئىلىملەرگە ئىشلىتىلىدۇ. بۇ ساھە ئەتراپلىق ھەل قىلىش چارىسى بىلەن تەمىنلەيدۇ ، ھەمدە ئەنئەنىۋى ئۆز-ئارا تەسىر كۆرسىتەلمەيدىغان پروگرامما تىللىرىنىڭ (C ، Fortran غا ئوخشاش) تەھرىرلەش ھالىتىدىن زور دەرىجىدە قۇتۇلىدۇ. [1]
+MATLAB ، ماتېماتىكا ۋە Maple ئۈچ چوڭ ماتېماتىكىلىق يۇمشاق دېتال دەپ ئاتىلىدۇ. ئۇ ماتېماتىكا ئىلمى ۋە تېخنىكا قوللىنىش يۇمشاق دېتالىدىكى سان ھېسابلاشتا ئىككىنچى ئورۇندا تۇرىدۇ. MATLAB ماترىساس مەشغۇلاتى ، سىيۇژىت فۇنكسىيەسى ۋە سانلىق مەلۇماتلارنى ئىجرا قىلالايدۇ ، ھېسابلاش ئۇسۇلىنى يولغا قويالايدۇ ، ئىشلەتكۈچى ئارايۈزىنى قۇرالايدۇ ، باشقا پروگرامما تىلىدىكى پروگراممىلارنى ئۇلىيالايدۇ. MATLAB نىڭ ئاساسلىق سانلىق مەلۇمات بىرلىكى ماترىساس بولۇپ ، ئۇنىڭ كۆرسەتمە ئىپادىلىرى ماتېماتىكا ۋە قۇرۇلۇشتا كۆپ قوللىنىلىدىغان سۆزلەر بىلەن ناھايىتى ئوخشايدۇ. شۇڭلاشقا ، MATLAB نى ئىشلىتىپ مەسىلىنى ھەل قىلىشتا C ، FORTRAN ۋە باشقا تىللارنى ئىشلىتىپ ، ئوخشاش ئىشنى ئەمەلگە ئاشۇرۇش تېخىمۇ ئاددىي ، MATLAB مۇ Maple غا ئوخشاش يۇمشاق دېتاللارنىڭ ئەۋزەللىكىنى ئەمەلدىن قالدۇرۇپ ، MATLAB نى كۈچلۈك ماتېماتىكىلىق يۇمشاق دېتالغا ئايلاندۇردى. يېڭى نەشرىدە C ، FORTRAN ، C ++ ۋە JAVA نى قوللاشمۇ قوشۇلدى
+</div>
+
+#### مەن بۇ يەردە ئۆزۈم تەييارلىغان ھېساپلاش ماتىماتىكىسىدا كۆپ ئىشلىتىلىدىغان ئىلمىي ھېساپلاش ئۇسۇللىرىنىڭ مەتلەب كودىنى ھەمبەھېرلەيمەن
+
+#### Files descriptionكود ھۆججەتلىرى ھەققىدە
+
+# 《数值计算方法》基本算法
 
 >   [1.连加、连乘积	3](#_Toc42267191)
 
